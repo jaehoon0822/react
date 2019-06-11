@@ -1,0 +1,12 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts":{
+  	"react":"create-react-app"
+  },
+  "dependencies": {
+    "create-react-app": "^3.0.1"
+  }
+}
